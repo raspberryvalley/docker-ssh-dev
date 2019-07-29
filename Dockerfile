@@ -1,7 +1,11 @@
 # Raspberry Valley image for testing Ansible scripts on Windows
-# To learn more, visit our github repository: 
+# To learn more, visit our github repository: https://github.com/raspberryvalley/docker-ssh-dev
 
-# Raspberry Valley is a makerspace in Sweden, Karlskrona. You can visit our site: https://raspberry-valley.azurewebsites.net
+# Raspberry Valley is a makerspace in Sweden, Karlskrona. You can visit our sites and check what's developing: 
+# * Knowledge base: https://raspberry-valley.azurewebsites.net
+# * Github pages: https://github.com/raspberryvalley
+# * Docker hub: hub.docker.com/r/raspberryvalley/
+# * Follow on Twitter: https://twitter.com/RaspberryValley
 
 FROM balenalib/amd64-debian:buster-run
 
